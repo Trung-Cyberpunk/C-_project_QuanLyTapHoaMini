@@ -1,0 +1,14 @@
+C:\Users\Admin\Desktop\C#_Thi\QuanLyBanHang\QuanLyBanHang\bin\Debug\Quanlybanhang.mdf
+C:\Users\Admin\Desktop\C#_Thi\QuanLyBanHang\QuanLyBanHang\bin\Debug\Quanlybanhang_log.ldf
+C:\Users\Admin\Desktop\C#_Thi\QuanLyBanHang\QuanLyBanHang\bin\Debug\QuanLyBanHang.exe.config
+C:\Users\Admin\Desktop\C#_Thi\QuanLyBanHang\QuanLyBanHang\bin\Debug\QuanLyBanHang.exe
+C:\Users\Admin\Desktop\C#_Thi\QuanLyBanHang\QuanLyBanHang\bin\Debug\QuanLyBanHang.pdb
+C:\Users\Admin\Desktop\C#_Thi\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\C#_Thi\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\Desktop\C#_Thi\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.frmDMChatLieu.resources
+C:\Users\Admin\Desktop\C#_Thi\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.frmMain.resources
+C:\Users\Admin\Desktop\C#_Thi\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.Properties.Resources.resources
+C:\Users\Admin\Desktop\C#_Thi\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\C#_Thi\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\C#_Thi\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.exe
+C:\Users\Admin\Desktop\C#_Thi\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.pdb
